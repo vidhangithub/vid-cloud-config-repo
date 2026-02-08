@@ -1,0 +1,3 @@
+app:
+  name: vid-service-b-config-client
+  featureEnabled: true
