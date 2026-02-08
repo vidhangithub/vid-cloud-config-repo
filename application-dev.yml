@@ -1,0 +1,2 @@
+app:
+  commonMessage: Hello from Config Server, shared to all if client service starts on dev profile
